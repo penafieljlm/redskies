@@ -1,0 +1,7 @@
+#ifdef LANGUAGE_SC
+#define STRING_r_short_caption "Red Skies"
+#define STRING_r_caption "Red Skies"
+#else
+#define STRING_r_short_caption "Red Skies"
+#define STRING_r_caption "Red Skies"
+#endif

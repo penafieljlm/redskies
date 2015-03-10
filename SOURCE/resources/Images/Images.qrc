@@ -1,0 +1,110 @@
+<RCC>
+    <qresource prefix="/Images/buttons/mainMenu">
+        <file>buttons/mainMenu/exit.png</file>
+        <file>buttons/mainMenu/exitOn.png</file>
+        <file>buttons/mainMenu/help.png</file>
+        <file>buttons/mainMenu/helpOn.png</file>
+        <file>buttons/mainMenu/newGame.png</file>
+        <file>buttons/mainMenu/newGameOn.png</file>
+    </qresource>
+    <qresource prefix="/Images/buttons/newGame">
+        <file>buttons/go.png</file>
+        <file>buttons/backButton.png</file>
+        <file>buttons/backButtonOn.png</file>
+        <file>buttons/nextButton.png</file>
+        <file>buttons/nextButtonOn.png</file>
+        <file>buttons/newGame/economy.png</file>
+        <file>buttons/newGame/economyOn.png</file>
+        <file>buttons/newGame/military.png</file>
+        <file>buttons/newGame/militaryOn.png</file>
+        <file>buttons/newGame/social.png</file>
+        <file>buttons/newGame/socialOn.png</file>
+        <file>buttons/newGame/technology.png</file>
+        <file>buttons/newGame/technologyOn.png</file>
+        <file>buttons/gameSelect/campaign.png</file>
+        <file>buttons/gameSelect/campaignOn.png</file>
+        <file>buttons/gameSelect/challenge.png</file>
+        <file>buttons/gameSelect/challengeOn.png</file>
+        <file>buttons/gameSelect/custom.png</file>
+        <file>buttons/gameSelect/customOn.png</file>
+    </qresource>
+    <qresource prefix="/Images/backgrounds/mainMenu">
+        <file>char1.png</file>
+        <file>char2.png</file>
+        <file>bgMain.png</file>
+        <file>menuBG.png</file>
+    </qresource>
+    <qresource prefix="/Images/backgrounds/newGame">
+        <file>newGSideBar.png</file>
+        <file>newGBG.png</file>
+    </qresource>
+    <qresource prefix="/Images/text/newGame">
+        <file>text/newGame/economyText.png</file>
+        <file>text/newGame/militaryText.png</file>
+        <file>text/newGame/socialText.png</file>
+        <file>text/newGame/techText.png</file>
+        <file>text/chooseEnemy/easyText.png</file>
+        <file>text/chooseEnemy/extremeText.png</file>
+        <file>text/chooseEnemy/hardText.png</file>
+        <file>text/chooseEnemy/mediumText.png</file>
+    </qresource>
+    <qresource prefix="/Images/generic">
+        <file>transp.png</file>
+        <file>text/terminatePrompt.png</file>
+        <file>text/bootPrompt.png</file>
+        <file>buttons/flip/batOff.png</file>
+        <file>buttons/flip/batOn.png</file>
+        <file>buttons/flip/blueOff.png</file>
+        <file>buttons/flip/blueOn.png</file>
+        <file>buttons/flip/redOff.png</file>
+        <file>buttons/flip/redOn.png</file>
+        <file>buttons/exec/off.png</file>
+        <file>buttons/exec/on.png</file>
+        <file>buttons/pauseButton.png</file>
+        <file>buttons/pauseButtonOn.png</file>
+        <file>worldMap.png</file>
+        <file>splash.png</file>
+        <file>challengeHeader.png</file>
+        <file>endChallenge.png</file>
+        <file>roundChallenge.png</file>
+        <file>border.png</file>
+        <file>interfaceBG.png</file>
+        <file>bgLayer.png</file>
+    </qresource>
+    <qresource prefix="/Images/buttons/enemy">
+        <file>buttons/enemy/easy.png</file>
+        <file>buttons/enemy/easyOn.png</file>
+        <file>buttons/enemy/hard.png</file>
+        <file>buttons/enemy/hardOn.png</file>
+        <file>buttons/enemy/medium.png</file>
+        <file>buttons/enemy/mediumOn.png</file>
+        <file>buttons/enemy/superhard.png</file>
+        <file>buttons/enemy/superhardOn.png</file>
+    </qresource>
+    <qresource prefix="/Images/backgrounds/enemy">
+        <file>chooseEnemySB.png</file>
+    </qresource>
+    <qresource prefix="/Interface">
+        <file>animated/interface/buffer/1.png</file>
+        <file>animated/interface/buffer/2.png</file>
+        <file>animated/interface/buffer/3.png</file>
+        <file>animated/interface/buffer/4.png</file>
+        <file>animated/interface/buffer/5.png</file>
+        <file>animated/interface/buffer/6.png</file>
+        <file>animated/interface/select/0.png</file>
+        <file>animated/interface/select/1.png</file>
+        <file>animated/interface/select/2.png</file>
+        <file>animated/interface/select/3.png</file>
+        <file>animated/interface/select/4.png</file>
+        <file>animated/interface/buffer/done.png</file>
+        <file>text/bootDone.png</file>
+    </qresource>
+    <qresource prefix="/GameScreen">
+        <file>buttons/gameScreen/exit.png</file>
+        <file>buttons/gameScreen/exitOn.png</file>
+        <file>buttons/gameScreen/quit.png</file>
+        <file>buttons/gameScreen/quitOn.png</file>
+        <file>buttons/gameScreen/reset.png</file>
+        <file>buttons/gameScreen/resetOn.png</file>
+    </qresource>
+</RCC>

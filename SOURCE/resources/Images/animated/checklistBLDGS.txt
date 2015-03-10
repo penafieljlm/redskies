@@ -1,0 +1,65 @@
+Capitol
+ Red
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+ Blue
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+Barracks
+ Red
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+ Blue
+  lv1 [x] 
+  lv2 [x]
+  lv3 [x]
+Warfactory
+ Red
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+ Blue
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+Airfield
+ Red
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+ Blue
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+Economy Center
+ Red
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+  lv4 [x]
+  lv5 [x]
+  lv6 [x]
+ Blue
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+  lv4 [x]
+  lv5 [x]
+  lv6 [x]
+Technology Center
+ Red
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+ Blue
+  lv1 [x]
+  lv2 [x]
+  lv3 [x]
+Superweapon
+ Red
+  lv1 [x]
+ Blue
+  lv1 [x]

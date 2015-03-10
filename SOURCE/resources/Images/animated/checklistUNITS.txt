@@ -1,0 +1,35 @@
+Air
+-AA
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]
+-AI
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]
+-AT
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]
+Inf
+-AI
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]
+-AT
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]
+Tnk
+-AA
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]
+-AI
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]
+-AT
+--lv1 [x]
+--lv2 [x]
+--lv3 [x]

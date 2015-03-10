@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 30 Sep 2011 23:09:30 +0800
+Source: proj
+Binary: proj
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ proj       - <insert up to 60 chars description>
+Changes: 
+ proj (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ d7398a1a3947ca28cd5ae43711987775f8eaf56e 9878266 proj_0.0.1_armel.deb
+Checksums-Sha256: 
+ 34d32f0d2a1f033111de68dbd24838d4d2c4e6c3ce8b88b01274e3673ba5114d 9878266 proj_0.0.1_armel.deb
+Files: 
+ 2d51e90eadd0dbfd7626a74f637391ad 9878266 user/other optional proj_0.0.1_armel.deb
+Maemo-Display-Name: proj
